@@ -1,0 +1,24 @@
+Definição do Projeto Desenvolvido no Curso de Logica de Programação
+
+Todo App
+
+Descrição: Aplicação para o gerenciamento do projetos e as tarefas envolvidas nesses projetos
+
+Objetivos: Resolver a questão de organização de tarefas de um ou vários projetos.
+
+Entidades:
+
+* Projeto;
+	-Nome
+	-Descrição
+	-Data de Crianção
+	-Data de Atualização
+* Tarefa;
+	-Nome
+	-Descrição
+	-Status
+	-Observação
+	-Prazo
+	-Data de Crianção
+	-Data de Atualização
+	
